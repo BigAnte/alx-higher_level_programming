@@ -9,5 +9,3 @@ def uppercase(str):
             pr = i
         print('{}'.format(pr), end="")
     print("")
-
-
